@@ -23,3 +23,7 @@ To install vim:
     syntax on
     colors zenburn
 ```
+
+To install Sublime:
+
+http://colorsublime.com/how-to-install-a-theme
