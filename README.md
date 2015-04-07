@@ -13,3 +13,13 @@ Found here:
 * Zenburnesque.terminal -- Zenburn colors for OSX terminal
 * zenburn.vim -- Vim color scheme
 * zemburn-iterm.itermcolors -- Zenburn colors for iTerm 2
+
+To install vim:
+
+* copy zenburn.vim to ~/.vim/colors
+* Add to .vimrc:
+
+```bash
+    syntax on
+    colors zenburn
+```
